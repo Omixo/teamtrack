@@ -1,9 +1,8 @@
-# Ignore JS and frontend stuff
+# Ignore frontend JS/React files
 *.js linguist-vendored
 *.jsx linguist-vendored
 *.css linguist-vendored
 *.html linguist-vendored
 
-# Count Java
+# Detect Java backend
 *.java linguist-detectable=true
-*.js linguist-detectable=false
